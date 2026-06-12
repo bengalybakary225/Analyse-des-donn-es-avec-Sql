@@ -1,3 +1,4 @@
+
 # Analyse des données avec SQL ✈️
 
 ## Contexte
@@ -22,6 +23,8 @@ La base `travel.sqlite` contient 8 tables :
 - `seats` — Sièges
 - `aircrafts_data` — Avions
 - `airports_data` — Aéroports
+
+👉 [Télécharger la base de données sur Kaggle](https://www.kaggle.com/code/datalearn/airline-dataanalytics-case-study-sqlite-python)
 
 ## Analyses réalisées
 1. Capacité des sièges par avion et par classe

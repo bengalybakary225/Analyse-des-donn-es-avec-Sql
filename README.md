@@ -19,14 +19,14 @@ L'objectif est d'analyser les données pour maximiser le revenu moyen par siège
 
 La base `travel.sqlite` contient 8 tables :
 
-- `bookings` — Réservations
-- `tickets` — Billets
-- `ticket_flights` — Billets par vol
-- `boarding_passes` — Cartes d'embarquement
-- `flights` — Vols
-- `seats` — Sièges
-- `aircrafts_data` — Avions
-- `airports_data` — Aéroports
+- `bookings` - Réservations
+- `tickets` - Billets
+- `ticket_flights` - Billets par vol
+- `boarding_passes` - Cartes d'embarquement
+- `flights` - Vols
+- `seats` - Sièges
+- `aircrafts_data` - Avions
+- `airports_data` - Aéroports
 
 ## Analyses réalisées
 
